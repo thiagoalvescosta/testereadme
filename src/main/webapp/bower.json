@@ -1,0 +1,30 @@
+{
+  "name": "spring-boot-data-security-angularjs",
+  "homepage": "http://www.techne.com.br",
+  "authors": [
+    "CronosPaas"
+  ],
+  "description": "spring-boot-data-security-angularjs",
+  "main": "",
+  "keywords": [
+    "spring-boot",
+    "angularjs"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "plugins/",
+    "test",
+    "tests",
+    "package.json",
+    "src"
+  ],
+  "dependencies": {
+    "cronapp-framework-js": "7357b91955cd5388368c560a1b0328e8bee4c4a8",
+    "cronapp-common-js": "81df421dac5c113f5adbc8a6ff491a4a38528a8d",
+    "cronapi-js": "5925945f69074f729f705d69c6a44e35362d55c6",
+    "cronapp-lib-js": "04b9bad563dbcb1f46e1f928b610ddd2c27a66e9"
+  }
+}
